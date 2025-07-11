@@ -1,0 +1,14 @@
+2025-07-04 15:35:57,676 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-04 15:35:58,581 - ERROR - Error uploading file 'cloud.txt': Failed to upload cloud.txt to 23BCE0000/cloud.txt: An error occurred (NoSuchBucket) when calling the PutObject operation: The specified bucket does not exist
+2025-07-04 15:36:23,617 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-04 15:36:24,755 - INFO - Successfully uploaded 'cloud.txt' to bucket '24030142004'.
+2025-07-04 15:37:48,179 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-04 15:37:49,346 - INFO - Successfully uploaded 'cloud.txt' to bucket '24030142004'.
+2025-07-04 15:38:15,530 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-04 15:38:16,669 - INFO - Successfully uploaded 'cloud.docx' to bucket '24030142004'.
+2025-07-04 15:38:26,556 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-04 15:38:26,703 - WARNING - Invalid file type: cloud.docx
+2025-07-04 15:38:39,782 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-04 15:38:40,953 - INFO - Successfully uploaded 'cloud.pdf' to bucket '24030142004'.
+2025-07-04 16:39:52,865 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-07-04 16:39:55,441 - INFO - Successfully uploaded 'cloud.pdf' to bucket '24030142004'.
